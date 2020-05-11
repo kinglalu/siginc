@@ -10,7 +10,6 @@ html,body{
   place-items: center;
   text-align: center;
   background: url(bg.jpg) no-repeat;
-  background-size: cover;
 }
 .container{
   position: relative;
